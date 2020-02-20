@@ -14,3 +14,10 @@ A, B and C is in answer floder
 E is in E_only_solve_2_times floder
 
 D and F is in based_on_remain_score_and_time floder
+
+# Our Team
+* Silent Selene [@AkibaSummer](https://github.com/AkibaSummer)
+* [@Carolwing](https://github.com/Carolwing)
+* [@Cyang](https://github.com/Liadrinz) 
+
+from Beijing University of Posts and Telecommunications
