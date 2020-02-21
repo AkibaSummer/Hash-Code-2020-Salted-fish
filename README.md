@@ -1,6 +1,6 @@
 # Google Hash Code 2020
 Solution for Google HashCode 2020
-This solution will get around 26397100 points.
+This solution will get around 26397100 points. (#978 Worldwide / #20 in China)
 
 - A 21 points
 - B 5,822,900 points
